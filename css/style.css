@@ -1,0 +1,19 @@
+/*FONTS*/
+
+.logo {
+    float: left;
+    width: 100px;
+    height: 100px;
+    background: #555;
+}
+
+/*HEADER SECTION*/
+.nav-container {
+    border-bottom: 3px solid #00aea1;
+}
+
+.nav-items {
+    margin: 0;
+    text-align: right;
+}
+
